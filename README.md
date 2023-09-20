@@ -9,4 +9,3 @@
 -   [ajout dossier / fichier](https://fr.wikihow.com/cr%C3%A9er-et-supprimer-des-dossiers-et-fichiers-sous-Windows-avec-l%27invite-de-commandes)
 -   [Git commandes](https://git-scm.com/docs)
 -   [Readme syntax ](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
