@@ -1,13 +1,13 @@
-h1 {
+ h1 {
   background-color: green;
   background-size: contain;
   width: max-content;
 }
-div :nth-child(1) {
+body>div :nth-child(1) {
   text-decoration: underline;
   text-decoration-color: blueviolet;
 }
-div :last-child {
+body>div :last-child {
   border: 1px solid red;
   width: max-content;
   padding: 5px;
